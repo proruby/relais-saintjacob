@@ -94,7 +94,7 @@
 
   .navbar{display:flex;align-items:center;justify-content:space-between;padding:.85rem 0;gap:1rem;}
   .brand{display:flex;align-items:center;gap:.8rem;text-decoration:none;color:var(--stone-light);}
-  .brand img{height:48px;width:auto;filter:brightness(0) invert(1);opacity:.95;}
+  .brand img{height:64px;width:auto;filter:brightness(0) invert(1);opacity:.95;}
   .brand-text{display:flex;flex-direction:column;line-height:1.2;}
   .brand-text strong{font-family:'Fraunces',serif;font-size:1.15rem;font-weight:600;}
   .brand-text span{font-size:.72rem;letter-spacing:.05em;opacity:.75;}
