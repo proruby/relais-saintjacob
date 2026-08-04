@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://relais-saintjacob.com/sitemap.xml
